@@ -10,9 +10,11 @@ Pasta Python contem os programas feitos dês de o primeiro dia de aprendizado no
 Estruturas basicas:
 - Listas
 - Tuplas
+
 Estruturas condicionais e de repetição:
 - If, else, elif.
 - for , while
+
 Tratamento de dados:
 - Slice 
 - reverção
