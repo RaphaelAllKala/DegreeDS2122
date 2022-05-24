@@ -1,0 +1,5 @@
+print('Programa para ler antecessor e sucessor.')
+print('\n\n')
+n=int(input('Digite um numero.'))
+print('Antecessor={:^5}'.format(n-1))
+print('Sucessor={:^5}'.format(n+1))

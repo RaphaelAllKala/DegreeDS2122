@@ -1,0 +1,5 @@
+print('Programa para obter dobro, triplo e raizquadrada\n\n')
+n=int(input('Digite um numero:  '))
+print('O dobro do numero digitado é {}'.format(n*2))
+print('O triplo de {} é {}'.format(n, n*3))
+print('A raiz quadrada de {} é {}.'.format(n, n**(1/2)))
