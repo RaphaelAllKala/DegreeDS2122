@@ -23,4 +23,6 @@ Tratamento de dados:
 Pasta Data Science:
 Exercicios e observações feitas no curso de Data Science da Let's Code:
 - Jupyter
-- 
+- OPP
+- Pandas
+- Scikit Learn
